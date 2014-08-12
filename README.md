@@ -23,18 +23,17 @@ SSP-4.
 
 # Known Bugs
 
-Version 1.0:
-	UTC time is set based on MST.  During MDT, UTC may be off by one hour.
+* Version 1.0: UTC time is set based on MST.  During MDT, UTC may be off by one hour.
 
 # Features
 
-*Auto-naming upon file save
-*Time and date stamp
-*Choice of multiple filters (automatic filter change on the SSP-4 itself 
+* Auto-naming upon file save
+* Time and date stamp
+* Choice of multiple filters (automatic filter change on the SSP-4 itself 
  has not yet been implemented)
-*Choice of integration time, ranging from 1s to 60s
-*Choice of variable gain setting
-*Optional use of observing list
+* Choice of integration time, ranging from 1s to 60s
+* Choice of variable gain setting
+* Optional use of observing list
 
 # Requirements
 
