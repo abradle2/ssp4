@@ -1,0 +1,5 @@
+   Date     UTC Time     Local Time       Filter    Gain    Integration     Counts  Counts  Counts    Notes      
+23_7_2008    01:10         19:10           Dark       1X          1          12345   12345   12345     
+23_7_2008    01:10         19:10           Dark       1X          1          12345   12345   12345     
+23_7_2008    02:04         20:04           Dark       1X          1          12345   12345   12345     
+

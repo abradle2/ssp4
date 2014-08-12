@@ -1,0 +1,10 @@
+Vega 1805+40 J = 0.00, H = 0.00
+HD 179084
+eta cyg
+sig cyg
+alpha boo
+beta boo
+eta boo
+alpha herc
+Hd 134659
+HD 3948
